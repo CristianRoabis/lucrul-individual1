@@ -22,7 +22,7 @@
 }
 .menu > img{
     position: relative;
-    /*  */
+    /* / */
 }
 .menu >  .box , .search_bar > .box {
     width: 100px;
